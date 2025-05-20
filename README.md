@@ -60,6 +60,8 @@ Image 17 : The code, Continuation from image 16
 <img width="627" alt="ReviewActivity " src="https://github.com/user-attachments/assets/9b5cbc3e-df88-4dcd-ad3d-78bea3b3c46c" />
 Image 18 : The code for the review screen.
 
+References: Module Manual 
+The independent institution of Education, 2024, Introduction to programming logic: Module manual 2025( first edition). The independent Institution of education. 
 
 
 
