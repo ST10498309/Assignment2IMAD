@@ -1,6 +1,7 @@
 # Assignment2IMAD
 
 The code: https://github.com/ST10498309/Assignment2IMAD/tree/main/A2History2
+The video Link : https://youtube.com/shorts/fuTdQS2GCGE?feature=share
 
 The purpose of this history app is to help students test and enhance their understanding of historical events. The program offers a number of interesting quiz questions that test your knowledge of important subjects and serve to reinforce your learning. After finishing the test, you may view the right answers and justifications for every question by tapping the Review button. This feature makes the app both an educational tool and an enjoyable method to study by enabling you to grow from your mistakes and broaden your knowledge of history.
 
