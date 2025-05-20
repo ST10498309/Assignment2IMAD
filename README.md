@@ -61,7 +61,7 @@ Image 17 : The code, Continuation from image 16
 Image 18 : The code for the review screen.
 
 References: Module Manual 
-The independent institution of Education, 2024, Introduction to programming logic: Module manual 2025( first edition). The independent Institution of education. 
+The independent institution of Education, 2024, Introduction to mobile application development: Module manual 2025( first edition). The independent Institution of education. 
 
 
 
